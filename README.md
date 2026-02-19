@@ -1,3 +1,18 @@
+#azure-devops-platform-docs/
+
+Azure DevOps Platform Docs responderá:
+
+Como código chega em produção?
+
+Como ambientes são promovidos?
+
+Quem aprova?
+
+Como auditamos mudanças?
+
+Como garantimos segregação de função?
+
+```text
 azure-devops-platform-docs/
 │
 ├── docs/
